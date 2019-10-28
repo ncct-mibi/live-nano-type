@@ -3,7 +3,7 @@ Live bacterial species typing with Oxford Nanopore sequencing reads
 
 ## Description
 This is a collection of tools and scripts which are used to perform real-time bacterial species typing of Nanopore reads as they come off the instrument.
-It is built around the [Japsa framework](https://github.com/mdcao/npAnalysis/), and consists of the following: 
+It is built around the [Japsa framework](https://github.com/mdcao/japsa), and consists of the following: 
 
 1. Set up an analysis server
 2. Stream data to the analysis server
